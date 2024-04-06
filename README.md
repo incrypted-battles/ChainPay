@@ -1,8 +1,8 @@
-## Welcome to ChainPay
+# Welcome to ChainPay
 
-**ChainPay** platform enables seamless creation and management of payment links and invoices within the Solana ecosystem;
+**ChainPay** platform enables seamless creation and management of payment links and invoices within the Solana ecosystem.
 
-#### Key Features
+### Key Features
 
 - Unlimited invoice creation with token usage;
 - Status tracking of invoices;
