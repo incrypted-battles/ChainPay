@@ -17,7 +17,8 @@
 			Simplifying Invoice Creation and Payments in the Solana Ecosystem
 		</h3>
 		<a
-			href="#"
+			href="/ChainPay.pdf"
+			download
 			class="rounded-lg bg-[#17FB9B] px-12 py-5 font-roboto text-xl font-bold text-[#050505] hover:bg-[#00ee99]"
 			>Download Pitch Deck</a
 		>
